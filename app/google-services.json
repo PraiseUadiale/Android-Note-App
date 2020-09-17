@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17204136748",
+    "firebase_url": "https://architecture-66e98.firebaseio.com",
+    "project_id": "architecture-66e98",
+    "storage_bucket": "architecture-66e98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17204136748:android:c5129734ae7cb4a78afa89",
+        "android_client_info": {
+          "package_name": "com.example.architecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17204136748-odh71e4r4rbimaeqdum89lh28d9f4232.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0UCXy6664LkPWJJ9YWX-v7XdKDY0A3JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17204136748-odh71e4r4rbimaeqdum89lh28d9f4232.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
